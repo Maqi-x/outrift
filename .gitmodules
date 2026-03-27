@@ -1,0 +1,3 @@
+[submodule "extern/cx-engine"]
+	path = extern/cx-engine
+	url = https://github.com/cxengine/cx-engine
